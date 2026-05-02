@@ -187,10 +187,8 @@ Special thanks to:
   </tbody>
 </table>
 
-## 👥 Collaborators
+## Pragati Srivastava
 
-<a href="https://github.com/sahilatahar/Code-Sync/graphs/contributors">
-   <img src="https://contrib.rocks/image?repo=sahilatahar/Code-Sync" />
-</a>
+
 
 
